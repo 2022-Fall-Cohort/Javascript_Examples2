@@ -1,2 +1,2 @@
-# Javascript_Examples2
-Second Section of Javascript Examples 
+# Javascript_Examples
+HTML/CSS/Javascript Examples
